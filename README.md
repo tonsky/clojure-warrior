@@ -1,3 +1,7 @@
+## PLEASE NOTE
+
+**Clojure Warrior is now part of [Calva](https://github.com/BetterThanTomorrow/calva). This repo has been archived.**
+
 # Clojure Warrior
 
 <img src="https://raw.githubusercontent.com/tonsky/clojure-warrior/master/extras/icon.png" width="128px" height="128px">
